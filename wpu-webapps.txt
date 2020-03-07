@@ -2,3 +2,4 @@ Resolusi
 - konsisten
 - membuat platform (web apps) review 
 - membuat forum diskusi
+- membuat LPA merch shop
